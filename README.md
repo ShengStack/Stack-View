@@ -22,4 +22,4 @@ Stack-View  免费看视频的软件基于TVBOX魔改
 该软件即可在手机上使用也可一下载到电视上详细请看[教程](目标URL)
 
 # Stack View安装包
-下载地址：https://example.com/download/win
+下载地址：https://github.com/ShengStack/Stack-View
