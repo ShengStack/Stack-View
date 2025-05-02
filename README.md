@@ -2,7 +2,7 @@
 免费看视频的软件（Tv Box魔改）
 # Stack-View  免费看视频的软件
 
-[![VideoPro Logo](https://example.com/logo.png "点击访问官网")](https://videopro.com) <!-- 替换为实际logo链接 -->
+[![Stack-View Logo](https://example.com/logo.png "点击访问官网")](https://videopro.com) <!-- 替换为实际logo链接 -->
 
 ## 简介
 Stack-View  免费看视频的软件基于TVBOX魔改
